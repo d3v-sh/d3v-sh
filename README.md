@@ -10,9 +10,9 @@ If you're looking for someone who thinks like an attacker and builds like a deve
 
 ## What I work with
 
-Languages: Python · Go · Bash · C/C++ · PowerShell · SQL  
+Languages: Python · Go · Bash · C/C++ · PowerShell · SQL · Postgres
 Security: Burp Suite · Metasploit · Nmap · Wireshark · Nuclei · Nessus · OWASP ZAP  
-DevOps / Infra: Docker · Linux · VS Code
+DevOps / Infra: Docker · Linux · VS Code · Kubernetes · Jenkins · Terraform
 
 ---
 
